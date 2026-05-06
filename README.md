@@ -1,3 +1,14 @@
+GGTC.info Ecosystem Repository
+
+Copyright (c) 2026 GGTC.info Publishing Team
+
+Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+
+You may share and adapt this material for non-commercial purposes with proper attribution.
+
+Commercial usage, redistribution, or brand replication without written permission is prohibited.
+
+
 # GGTC.info
 
 ## Structured Systems. Global Learning. Continuous Development.
